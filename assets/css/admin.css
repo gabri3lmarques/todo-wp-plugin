@@ -1,0 +1,13 @@
+/* Estilos para a página de administração do plugin To-do */
+#task-list {
+    margin-top: 20px;
+}
+
+#task-list .task-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+}
